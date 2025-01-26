@@ -18,3 +18,4 @@ Here are some ideas to get you started:
  When people start telling you that you're crazy, you just might be on to the most important innovation in your life.
 -Larry Ellison
 
+## Tools and Technologies
