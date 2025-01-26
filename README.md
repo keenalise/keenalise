@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 - 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate on new projects
+- 👯 I’m looking to collaborate on new projects using Python.
 - 😄 Pronouns: he/him
  When people start telling you that you're crazy, you just might be on to the most important innovation in your life.
 -Larry Ellison
