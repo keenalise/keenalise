@@ -3,7 +3,7 @@ Hi, This is me Prajwal Bhandari. 👋
 A Computer Science student with a passion for AI/ML.
 I am actively working on various projects, from AI-driven web apps to machine learning models, and continuously enhancing my skills in ML & Data Science.
 # 💫 About Me:
-Passionate software developer with a focus on building scalable and efficient applications.<br>Experienced in a variety of programming languages, including Python, JavaScript, C and C++, and well-versed in modern development tools and frameworks. <br>Enthusiastic about open-source contributions, collaborative projects, and continuous learning.<br> Currently exploring AI, web development, application development.<br> Always looking to collaborate and push the boundaries of technology.
+Hello! I'm a passionate web developer with a keen eye for design and a love for creating intuitive, user-friendly websites. With X years of experience in the field, I've worked on a variety of projects ranging from small business websites to large-scale web applications.My expertise includes front-end technologies like HTML, CSS, Python, Java as well as C. I'm always eager to learn new technologies and stay up-to-date with the latest web development trends.<br> Always looking to collaborate and push the boundaries of technology.
 
 
 ## 🌐 Socials:
