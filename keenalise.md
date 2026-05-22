@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prajwal%20Bhandari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Building+AI-Driven+Web+Apps+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Android+App+Developer+%F0%9F%93%B1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+🚀 Building AI-Driven Web Apps &nbsp;|&nbsp; 🤖 Exploring Machine Learning &nbsp;|&nbsp; 📱 Android Developer
  
 </div>
 ---
