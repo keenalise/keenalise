@@ -1,24 +1,90 @@
-Hi, This is me Prajwal Bhandari. 👋
-
-A Computer Science student with a passion for AI/ML.
-I am actively working on various projects, from AI-driven web apps to machine learning models, and continuously enhancing my skills in ML & Data Science.
-# 💫 About Me:
-Hello! I'm Prajwal Bhandari, a passionate web developer with a keen eye for design and a love for creating intuitive, user-friendly websites as well as AI and Machine Learning.  I don't have any experience working with companies yet but am looking for internship to start new chapter of my life.</p>
- <p>My expertise includes front-end technologies like HTML, CSS, JavaScript, Python as well as C. I'm always eager to learn new technologies and stay up-to-date with the latest web development trends.</p>
-<p>When I'm not coding, you can find me exploring new hiking trails, playing chess, watching chess, experimenting with new recipes in the kitchen, or exploring the contents of books.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/keenalise) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keenalise199) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-bhandari-389031324) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@keen.alise) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/keenalise) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/keen_alise) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@keenalise123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keenalise199@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keenalise&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prajwal%20Bhandari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Building+AI-Driven+Web+Apps+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Android+App+Developer+%F0%9F%93%B1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+ 
+</div>
 ---
-[![](https://visitcount.itsvg.in/api?id=keenalise&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--  -->
+ 
+## 👋 Hey there! I'm Prajwal
+ 
+I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep love for crafting intelligent, user-friendly applications. From AI-powered web apps to Android development, I'm always looking to push the boundaries of what I can build.
+ 
+> *"Code is poetry — I'm still learning the language."*
+ 
+- 🎓 CS student focused on **AI/ML & Full-Stack Development**
+- 🔭 Actively building projects at the intersection of **AI and real-world utility**
+- 🌱 Continuously expanding my knowledge in **Machine Learning & Data Science**
+- 🤝 Looking for **internship opportunities** to kick off my professional journey
+- ♟️ When offline: hiking trails, playing chess, experimenting in the kitchen, and diving into books
+---
+ 
+## 🛠️ Tech Stack
+ 
+<div align="center">
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+### 📱 Mobile & Backend
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+ 
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+</div>
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keenalise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keenalise&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=keenalise&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+ 
+</div>
+---
+ 
+## 🏆 GitHub Trophies
+ 
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=keenalise&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+---
+ 
+## 📈 Contribution Graph
+ 
+<div align="center">
+[![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keenalise&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
+---
+ 
+## 📬 Let's Connect
+ 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-bhandari-389031324/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
+ 
+</div>
+---
+ 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
+ 
+*Thanks for stopping by! Drop a ⭐ on something you like.*
+ 
+</div>
