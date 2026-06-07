@@ -1,14 +1,14 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prajwal%20Bhandari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Developer&descAlignY=57&descSize=17&animation=fadeIn" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Prajwal%20Bhandari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Developer&descAlignY=57&descSize=16&animation=fadeIn" />
-
-🚀 Building AI-Driven Web Apps &nbsp;·&nbsp; 🤖 Exploring Machine Learning &nbsp;·&nbsp; 📱 Android Developer
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prajwal+%F0%9F%91%8B;Building+AI-Driven+Web+Apps+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Android+Developer+%F0%9F%93%B1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👋 Hey there! I'm Prajwal
+## 👋 About Me
 
 I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep love for crafting intelligent, user-friendly applications. From AI-powered web apps to Android development, I'm always looking to push the boundaries of what I can build.
 
@@ -26,25 +26,17 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages & Frameworks
 
-### 📱 Mobile & Backend
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css&perline=6" />
 
-### 🗄️ Databases
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 📱 Mobile, Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=android,firebase,sqlite,mysql&perline=4" />
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=git,github&perline=2" />
 
 </div>
 
@@ -66,6 +58,30 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keenalise&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake.svg" />
+  </picture>
+</div>
+
+> ⚠️ **Note:** The snake animation requires a one-time GitHub Actions setup — see instructions below.
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -78,11 +94,9 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
 
-![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
-
-*Thanks for stopping by! Drop a ⭐ on something you like.*
-
+  *Thanks for stopping by! Drop a ⭐ on something you like.*
 </div>
