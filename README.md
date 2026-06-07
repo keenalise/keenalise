@@ -12,17 +12,11 @@
 
 ## whoami
 
-```jsonc
-// $ cat prajwal.json
-{
-  "name"      : "Prajwal Bhandari",
-  "location"  : "Kathmandu, Nepal 🇳🇵",
-  "role"      : "CS Student — AI/ML & Full-Stack",
-  "seeking"   : "Internship opportunities",
-  "currently" : "Building at the intersection of AI and real utility",
-  "offline"   : ["hiking trails", "chess", "cooking experiments", "books"]
-}
-```
+- 🇳🇵 Based in **Kathmandu, Nepal**
+- 🎓 CS Student focused on **AI/ML & Full-Stack Development**
+- 🔭 Building at the intersection of **AI and real-world utility**
+- 🤝 Actively seeking **internship opportunities**
+- ♟️ Offline: hiking trails · chess · cooking experiments · books
 
 ---
 
