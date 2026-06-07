@@ -102,8 +102,4 @@
 
 ---
 
-<div align="center">
-  <sub>⭐ Drop a star on something you like — it means a lot.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1040,50:0f0c29,100:0a0a0f&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1040,100:2d1b69&height=160&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=e2d9f3&fontAlignY=55&desc=%E2%AD%90%20Drop%20a%20star%20on%20something%20you%20like%20%E2%80%94%20it%20means%20a%20lot&descAlignY=75&descSize=13&animation=fadeIn" />
