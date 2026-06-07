@@ -1,211 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Prajwal%20Bhandari&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Student%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Software%20Engineer&descAlignY=56&descSize=16&animation=fadeIn" alt="Prajwal Bhandari banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prajwal%20Bhandari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Android%20Dev&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/keenalise">
-  <img src="https://img.shields.io/badge/Based%20in-Nepal%20%F0%9F%87%B3%F0%9F%87%B5-302b63?style=for-the-badge&labelColor=0f0c29" alt="Nepal" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-<a href="https://github.com/keenalise?tab=followers">
-  <img src="https://img.shields.io/github/followers/keenalise?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=FOLLOWERS" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/keenalise">
-  <img src="https://img.shields.io/github/stars/keenalise?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=STARS" alt="GitHub Stars" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prajwal+Bhandari;CS+Student+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+AI-Driven+Real-World+Apps;Android+%26+Full-Stack+Developer;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://github.com/keenalise)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Prajwal+Bhandari;Computer+Science+Student+from+Nepal;Building+AI-Driven+Web+Applications;Exploring+Machine+Learning+%26+Data+Science;Android+%26+Full-Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+[![Profile Views](https://komarev.com/ghpvc/?username=keenalise&base=0&color=a78bfa&style=flat-square&label=Profile+Views)](https://github.com/keenalise)
+[![GitHub Followers](https://img.shields.io/github/followers/keenalise?style=flat-square&color=a78bfa&labelColor=0f0c29&label=Followers)](https://github.com/keenalise?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/keenalise?style=flat-square&color=a78bfa&labelColor=0f0c29&label=Stars)](https://github.com/keenalise)
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
+---
 
-## &nbsp;&nbsp;👋&nbsp;&nbsp;About Me
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="280" alt="Coding GIF" />
 
-<table>
-<tr>
-<td width="62%" valign="top">
+### 👋 About Me
 
-I'm a **Computer Science student** from 🇳🇵 **Nepal** with a deep passion for crafting
-intelligent, user-friendly software. My work lives at the intersection of
-**Artificial Intelligence** and **real-world utility** — from AI-powered web apps
-to Android applications.
-
-I care about clean architecture, thoughtful design, and writing code that solves
-genuine problems. I'm always pushing the boundaries of what I can build.
+I'm a **Computer Science student** from 🇳🇵 **Nepal** passionate about building intelligent, useful software at the intersection of **AI/ML** and **real-world utility**.
 
 ```yaml
-name:        "Prajwal Bhandari"
-role:        "CS Student · AI/ML & Full-Stack Developer"
-location:    "Nepal 🇳🇵"
-focus:       ["AI/ML", "Full-Stack", "Android"]
-open_to:     "Internship Opportunities"
-mindset:     "Always learning, always building"
+name:     "Prajwal Bhandari"
+alias:    "keenalise"
+role:     "CS Student · AI/ML & Full-Stack Developer"
+location: "Nepal 🇳🇵"
+focus:    ["AI / ML", "Full-Stack", "Android"]
+open_to:  "Internship Opportunities 🤝"
+mindset:  "Always learning, always building 🚀"
 ```
 
-</td>
-<td width="38%" valign="top">
-
-**🎯 Quick Facts**
-
-- 🎓 CS student focused on **AI/ML & Full-Stack Development**
-- 🔭 Building projects at the intersection of **AI and real-world utility**
-- 🌱 Growing my skills in **Machine Learning & Data Science**
-- 🤝 Open to **internship opportunities** to begin my professional journey
-- ♟️ Off-screen: **hiking**, **chess**, **cooking**, and **reading**
+**When I'm not coding:**  
+♟️ Chess &nbsp;|&nbsp; 🥾 Hiking &nbsp;|&nbsp; 🍳 Cooking &nbsp;|&nbsp; 📖 Reading
 
 > *"Code is poetry — I'm still learning the language."*
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
+---
 
-## &nbsp;&nbsp;🛠️&nbsp;&nbsp;Tech Stack
+[![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/keenalise)
 
-<div align="center">
+## 🧰 Tech Stack
 
-**Languages**
+| **Languages** | **AI / ML** | **Frontend** |
+|:---:|:---:|:---:|
+| ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![JS](https://skillicons.dev/icons?i=js) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![sklearn](https://skillicons.dev/icons?i=sklearn) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) |
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js&perline=4" alt="Languages" />
+| **Backend & Mobile** | **Databases** | **Tools** |
+|:---:|:---:|:---:|
+| ![Firebase](https://skillicons.dev/icons?i=firebase) ![Android](https://skillicons.dev/icons?i=android) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
 
-**Frontend**
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Frontend" />
+[![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/keenalise)
 
-**Backend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=firebase,android&perline=2" alt="Backend & Mobile" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" alt="Databases" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&perline=4" alt="AI/ML" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
-
-## &nbsp;&nbsp;📊&nbsp;&nbsp;GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=keenalise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" alt="Prajwal's GitHub Stats" />
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=keenalise&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top Languages" />
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keenalise&theme=radical)](https://github.com/keenalise)
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=keenalise&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+| [![GitHub Streak](https://streak-stats.demolab.com?user=keenalise&theme=react&border_radius=10&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff&stroke=ffffff)](https://github.com/keenalise) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keenalise&langs_count=8&layout=compact&theme=nightowl&border_radius=10)](https://github.com/keenalise) |
+|:---:|:---:|
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
+---
 
-## &nbsp;&nbsp;📈&nbsp;&nbsp;Contribution Activity
+[![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/keenalise)
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keenalise&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true" alt="Contribution Graph" />
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=keenalise&theme=react-dark&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=false)](https://github.com/keenalise)
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
+---
 
-## &nbsp;&nbsp;🏆&nbsp;&nbsp;Achievements
+[![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/keenalise)
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keenalise&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🤖 AI / ML**
-
-Building and learning hands-on projects across machine learning and data science.
-
-</td>
-<td align="center" width="33%">
-
-**💻 Full-Stack**
-
-Shipping AI-driven web applications from front end to data layer.
-
-</td>
-<td align="center" width="33%">
-
-**📱 Android**
-
-Developing native Android apps with Kotlin, Java & Firebase.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
-
-## &nbsp;&nbsp;🚧&nbsp;&nbsp;Currently Working On
+## 🚧 Currently Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 AI / ML Projects**
-- Exploring machine learning models for real-world utility
-- Strengthening foundations in Data Science
+**🤖 AI / ML**
+- Exploring ML models for real-world utility
+- Building my foundations in Data Science & computer vision
 
-**🌐 Full-Stack Development**
-- Building AI-driven web applications end to end
+**🌐 Full-Stack**
+- End-to-end AI-driven web applications
 
 </td>
 <td width="50%" valign="top">
 
-**📱 Android Development**
-- Crafting native Android experiences
+**📱 Android**
+- Native Android apps with Kotlin & Firebase
 
 **📚 Learning Goals**
-- Deepening Machine Learning expertise
-- Sharpening full-stack and mobile engineering skills
+- Deepening ML & Deep Learning expertise
+- Sharpening full-stack & mobile engineering
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
+---
 
-## &nbsp;&nbsp;📌&nbsp;&nbsp;Featured Projects
+[![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/keenalise)
+
+## 📌 Featured Projects
 
 <table>
 <tr>
@@ -214,11 +128,11 @@ Developing native Android apps with Kotlin, Java & Firebase.
 ### 🤖 AI / ML Project
 > *Project details coming soon.*
 
-A project exploring machine learning applied to real-world problems.
+Applying machine learning to solve real-world problems with clean, production-ready code.
 
-`Python` · `Machine Learning`
+`Python` `Machine Learning` `Data Science`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
+[![Repo](https://img.shields.io/badge/View%20Repo-%230f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
 
 </td>
 <td width="50%" valign="top">
@@ -226,11 +140,11 @@ A project exploring machine learning applied to real-world problems.
 ### 🌐 Full-Stack Web App
 > *Project details coming soon.*
 
-An AI-driven web application built across the full stack.
+An AI-driven web application built end-to-end — from frontend to data layer.
 
-`JavaScript` · `Firebase`
+`JavaScript` `Firebase` `AI`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
+[![Repo](https://img.shields.io/badge/View%20Repo-%230f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
 
 </td>
 </tr>
@@ -240,51 +154,61 @@ An AI-driven web application built across the full stack.
 ### 📱 Android App
 > *Project details coming soon.*
 
-A native Android application focused on usability.
+Native Android experience focused on clean UX and performance.
 
-`Kotlin` · `Java` · `Firebase`
+`Kotlin` `Java` `Firebase`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
+[![Repo](https://img.shields.io/badge/View%20Repo-%230f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ More Coming Soon
-> *Placeholder.*
+### ✨ More on the way...
 
-New experiments at the intersection of AI and real-world utility.
+New experiments at the intersection of AI and real-world utility. Stay tuned.
 
-`Coming Soon`
+`Coming Soon 🚀`
 
-[![Profile](https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise?tab=repositories)
+[![All Repos](https://img.shields.io/badge/All%20Repos-%230f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
+---
 
-## &nbsp;&nbsp;🐍&nbsp;&nbsp;Contribution Snake
+[![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/keenalise)
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake.svg" />
 </picture>
 
+> ⚠️ Requires one-time GitHub Actions setup to generate the snake SVG.
+
 </div>
 
-> ⚠️ **Note:** The snake animation requires a one-time GitHub Actions setup.
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&width=900&section=header" alt="divider" />
-</div>
+[![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)](https://github.com/keenalise)
 
-## &nbsp;&nbsp;📬&nbsp;&nbsp;Let's Connect
+## ⚡ Fun Facts & Vibes
+
+> 🎶 Coding with lo-fi beats = peak productivity 🎧  
+> 🥾 Hiking resets the brain better than any restart  
+> ♟️ Chess taught me: always think two moves ahead  
+> ☕ Fueled by chai, curiosity, and commitment
+
+**💡 Let's connect and build something great together! 🌟**
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -293,10 +217,12 @@ New experiments at the intersection of AI and real-world utility.
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=72" alt="footer" />
+[![Footer](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://github.com/keenalise)
 
-*Drop a ⭐ on something you like — let's build something great together.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20Drop%20a%20%E2%AD%90&fontSize=18&fontColor=ffffff&fontAlignY=70" />
 
 </div>
