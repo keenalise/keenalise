@@ -12,10 +12,8 @@
 
 ## whoami
 
-```bash
-$ cat prajwal.json
-```
-```json
+```jsonc
+// $ cat prajwal.json
 {
   "name"      : "Prajwal Bhandari",
   "location"  : "Kathmandu, Nepal 🇳🇵",
