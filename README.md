@@ -78,7 +78,6 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
   </picture>
 </div>
 
-> ⚠️ **Note:** The snake animation requires a one-time GitHub Actions setup — see instructions below.
 
 ---
 
