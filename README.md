@@ -99,6 +99,6 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
   ![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
 
 
-  *Thanks for stopping by! *
-  *Drop a ⭐ on something you like.*
+  *Thanks for stopping by! *Drop a ⭐ on something you like. *
+  
 </div>
