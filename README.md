@@ -100,5 +100,7 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 
 
   *Thanks for stopping by! *Drop a ⭐ on something you like. *
+  idk what do i do today
+  
   
 </div>
