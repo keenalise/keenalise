@@ -1,32 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prajwal%20Bhandari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Developer&descAlignY=57&descSize=17&animation=fadeIn" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prajwal+%F0%9F%91%8B;Building+AI-Driven+Web+Apps+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Android+Developer+%F0%9F%93%B1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
-</div>
+<!-- Animated typing header — service: readme-typing-svg (DenverCoder1) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME;Backend+%26+Mobile+Developer;Building+one+commit+at+a+time" alt="Typing SVG" />
 
-<div align="center">
-  <a href="https://gitfut.com/keenalise">
-    <img src="https://gitfut.com/keenalise/opengraph-image?57b1687aaacbd944" alt="Prajwal's GitFut Card — 77 OVR CAM Fantasista" width="480"/>
-  </a>
-  <br/>
-  <!-- <sub>⚽ Scouted by <a href="https://gitfut.com">GitFut</a> — my GitHub, rated out of 99</sub> -->
+<br/>
+
+<!-- Social badges — replace hrefs with your real links -->
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<!-- Visitor counter — service: komarev.com -->
+<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=2E7D32" alt="Profile views"/>
+
 </div>
 
 <br/>
 
 ## 👋 About Me
 
-I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep love for crafting intelligent, user-friendly applications. From AI-powered web apps to Android development, I'm always looking to push the boundaries of what I can build.
-
-> *"Code is poetry — I'm still learning the language."*
-
-- 🎓 CS student focused on **AI/ML & Full-Stack Development**
-- 🔭 Actively building projects at the intersection of **AI and real-world utility**
-- 🌱 Continuously expanding my knowledge in **Machine Learning & Data Science**
-- 🤝 Looking for **internship opportunities** to kick off my professional journey
-- ♟️ When offline: hiking trails, playing chess, experimenting in the kitchen, and diving into books
+- 🎓 &nbsp;`YOUR ROLE / STUDY FIELD` — e.g. Computer Science student / Backend & Android Developer
+- 🚀 &nbsp;Currently working on `YOUR CURRENT PROJECT`
+- 🌱 &nbsp;Currently learning `SOMETHING YOU'RE LEARNING`
+- 💬 &nbsp;Ask me about `Python, Android, Firebase, SQL`
+- 📫 &nbsp;Reach me at **your-email@example.com**
 
 <br/>
 
@@ -34,71 +31,75 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### ⚽ Starting XI (4-3-3)
 
+<img src="tech-stack-lineup.svg" alt="Tech Stack Lineup" width="700"/>
+
+<sub>GK: Git &nbsp;•&nbsp; Defense: Android · Firebase · SQLite · MySQL &nbsp;•&nbsp; Midfield: Java · Kotlin · JavaScript &nbsp;•&nbsp; Attack: HTML · Python (striker) · CSS &nbsp;•&nbsp; Coach: GitHub</sub>
+
+</div>
+
+<details>
+<summary>📋 Full squad list (fallback icons)</summary>
+
+<br/>
+
+<div align="center">
+
+**Languages & Frameworks**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css&perline=6" />
 
-### 📱 Mobile, Backend & Databases
-
+**Mobile, Backend & Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=android,firebase,sqlite,mysql&perline=4" />
 
-### 🔧 Tools
-
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github&perline=2" />
 
 </div>
 
----
+</details>
 
+<br/>
 
 ## 📊 GitHub Stats
 
+<!-- Service: github-readme-stats (anuraghazra) — replace 'your-username' -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=keenalise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Prajwal's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=keenalise&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=keenalise&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="65%"/>
+
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🚀 Featured Projects
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/keenalise/keenalise/output/github-snake.svg" />
-  </picture>
-</div>
+| Project | Description | Tech |
+|---|---|---|
+| [Project One](https://github.com/your-username/project-one) | Short one-line description of what it does | `Python` `Firebase` |
+| [Project Two](https://github.com/your-username/project-two) | Short one-line description of what it does | `Kotlin` `SQLite` |
+| [Project Three](https://github.com/your-username/project-three) | Short one-line description of what it does | `Java` `MySQL` |
 
 <br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keenalise&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-## 📬 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-bhandari-389031324/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
+### 📫 Let's Connect
 
-</div>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <br/>
-  <sub>Thanks for stopping by! Drop a ⭐ on something you like.</sub>
+⭐️ From [your-username](https://github.com/your-username)
+
 </div>
