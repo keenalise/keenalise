@@ -11,7 +11,7 @@
     <img src="https://gitfut.com/keenalise/opengraph-image?57b1687aaacbd944" alt="Prajwal's GitFut Card — 77 OVR CAM Fantasista" width="480"/>
   </a>
   <br/>
-  <sub>⚽ Scouted by <a href="https://gitfut.com">GitFut</a> — my GitHub, rated out of 99</sub>
+  <!-- <sub>⚽ Scouted by <a href="https://gitfut.com">GitFut</a> — my GitHub, rated out of 99</sub> -->
 </div>
 
 <br/>
