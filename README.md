@@ -5,12 +5,10 @@
 
 <br/>
 
-<!-- Social badges — replace hrefs with your real links -->
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<!-- Visitor counter — service: komarev.com -->
 <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=2E7D32" alt="Profile views"/>
 
 </div>
@@ -19,7 +17,7 @@
 
 ## 👋 About Me
 
-- 🎓 &nbsp;`YOUR ROLE / STUDY FIELD` — e.g. Computer Science student / Backend & Android Developer
+- 🎓 &nbsp;`YOUR ROLE / STUDY FIELD`
 - 🚀 &nbsp;Currently working on `YOUR CURRENT PROJECT`
 - 🌱 &nbsp;Currently learning `SOMETHING YOU'RE LEARNING`
 - 💬 &nbsp;Ask me about `Python, Android, Firebase, SQL`
@@ -27,20 +25,62 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack — Starting XI (4-3-3)
 
 <div align="center">
 
-### ⚽ Starting XI (4-3-3)
+<sub>🧑‍🏫 <b>COACH</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=github" width="50" alt="github"/>
+<br/><sub>GitHub</sub>
 
-<img src="tech-stack-lineup.svg" alt="Tech Stack Lineup" width="700"/>
+<br/><br/>
 
-<sub>GK: Git &nbsp;•&nbsp; Defense: Android · Firebase · SQLite · MySQL &nbsp;•&nbsp; Midfield: Java · Kotlin · JavaScript &nbsp;•&nbsp; Attack: HTML · Python (striker) · CSS &nbsp;•&nbsp; Coach: GitHub</sub>
+<sub><b>⚽ ATTACK</b></sub>
+<br/>
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br/><sub>HTML</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="65"/><br/><sub><b>PYTHON ★</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br/><sub>CSS</sub></td>
+</tr>
+</table>
+
+<sub><b>⚙️ MIDFIELD</b></sub>
+<br/>
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="55"/><br/><sub>JAVA</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="55"/><br/><sub>KOTLIN</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br/><sub>JAVASCRIPT</sub></td>
+</tr>
+</table>
+
+<sub><b>🛡️ DEFENSE (Backend / DB)</b></sub>
+<br/>
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=android" width="55"/><br/><sub>ANDROID</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55"/><br/><sub>FIREBASE</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br/><sub>SQLITE</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/><sub>MYSQL</sub></td>
+</tr>
+</table>
+
+<sub><b>🥅 GOALKEEPER</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git" width="60"/>
+<br/><sub><b>GIT</b></sub>
 
 </div>
 
+<br/>
+
 <details>
-<summary>📋 Full squad list (fallback icons)</summary>
+<summary>📋 Full squad list (fallback icon strip)</summary>
 
 <br/>
 
@@ -66,7 +106,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- Service: github-readme-stats (anuraghazra) — replace 'your-username' -->
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
@@ -84,9 +123,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project One](https://github.com/your-username/project-one) | Short one-line description of what it does | `Python` `Firebase` |
-| [Project Two](https://github.com/your-username/project-two) | Short one-line description of what it does | `Kotlin` `SQLite` |
-| [Project Three](https://github.com/your-username/project-three) | Short one-line description of what it does | `Java` `MySQL` |
+| [Project One](https://github.com/your-username/project-one) | Short one-line description | `Python` `Firebase` |
+| [Project Two](https://github.com/your-username/project-two) | Short one-line description | `Kotlin` `SQLite` |
+| [Project Three](https://github.com/your-username/project-three) | Short one-line description | `Java` `MySQL` |
 
 <br/>
 
