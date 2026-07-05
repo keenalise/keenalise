@@ -1,0 +1,165 @@
+<svg width="900" height="640" viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pitch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a5c2e"/>
+      <stop offset="100%" stop-color="#0f3d1e"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="900" height="640" fill="#0d1117"/>
+
+  <!-- pitch -->
+  <rect x="40" y="40" width="820" height="560" rx="14" fill="url(#pitch)"/>
+
+  <!-- mow stripes -->
+  <g>
+    <rect x="40" y="40" width="820" height="70" fill="url(#stripe)"/>
+    <rect x="40" y="180" width="820" height="70" fill="url(#stripe)"/>
+    <rect x="40" y="320" width="820" height="70" fill="url(#stripe)"/>
+    <rect x="40" y="460" width="820" height="70" fill="url(#stripe)"/>
+  </g>
+
+  <!-- outer lines -->
+  <rect x="60" y="60" width="780" height="520" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+  <!-- halfway line -->
+  <line x1="60" y1="320" x2="840" y2="320" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+  <!-- center circle -->
+  <circle cx="450" cy="320" r="70" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+  <circle cx="450" cy="320" r="3" fill="#ffffff" fill-opacity="0.55"/>
+
+  <!-- top penalty box (attack end) -->
+  <rect x="290" y="60" width="320" height="110" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+  <rect x="370" y="60" width="160" height="45" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+  <circle cx="450" cy="195" r="3" fill="#ffffff" fill-opacity="0.55"/>
+  <path d="M 370 170 A 70 70 0 0 0 530 170" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+
+  <!-- bottom penalty box (defense end) -->
+  <rect x="290" y="470" width="320" height="110" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+  <rect x="370" y="535" width="160" height="45" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+  <circle cx="450" cy="445" r="3" fill="#ffffff" fill-opacity="0.55"/>
+  <path d="M 370 470 A 70 70 0 0 1 530 470" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3"/>
+
+  <!-- corner arcs -->
+  <path d="M 60 80 A 20 20 0 0 0 80 60" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 820 60 A 20 20 0 0 0 840 80" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 840 560 A 20 20 0 0 0 820 580" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M 80 580 A 20 20 0 0 0 60 560" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2"/>
+
+  <!-- FORMATION LABEL -->
+  <text x="450" y="30" text-anchor="middle" font-family="Verdana, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa" letter-spacing="2">4-3-3 · TECH FORMATION</text>
+
+  <!-- ================= PLAYERS ================= -->
+  <!-- helper: each player = circle badge (icon) + name + position tag -->
+
+  <!-- ST -->
+  <g transform="translate(450,110)">
+    <circle r="34" fill="#161b22" stroke="#a78bfa" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=html" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#a78bfa"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">ST</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">HTML</text>
+  </g>
+
+  <!-- LW -->
+  <g transform="translate(150,150)">
+    <circle r="34" fill="#161b22" stroke="#a78bfa" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=js" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#a78bfa"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">LW</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">JavaScript</text>
+  </g>
+
+  <!-- RW -->
+  <g transform="translate(750,150)">
+    <circle r="34" fill="#161b22" stroke="#a78bfa" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=css" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#a78bfa"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">RW</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">CSS</text>
+  </g>
+
+  <!-- CM Python (left) -->
+  <g transform="translate(300,290)">
+    <circle r="34" fill="#161b22" stroke="#facc15" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=python" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#facc15"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">CM</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">Python</text>
+  </g>
+
+  <!-- CAM Java (center, pushed up slightly = playmaker) -->
+  <g transform="translate(450,250)">
+    <circle r="36" fill="#161b22" stroke="#facc15" stroke-width="3"/>
+    <image href="https://skillicons.dev/icons?i=java" x="-21" y="-21" width="42" height="42"/>
+    <rect x="-26" y="42" width="52" height="18" rx="4" fill="#facc15"/>
+    <text x="0" y="55" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">CAM</text>
+    <text x="0" y="78" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">Java</text>
+    <text x="0" y="-46" text-anchor="middle" font-family="Verdana, sans-serif" font-size="10" font-weight="bold" fill="#facc15">★ CAPTAIN</text>
+  </g>
+
+  <!-- CM Kotlin (right) -->
+  <g transform="translate(600,290)">
+    <circle r="34" fill="#161b22" stroke="#facc15" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=kotlin" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#facc15"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">CM</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">Kotlin</text>
+  </g>
+
+  <!-- LB -->
+  <g transform="translate(150,440)">
+    <circle r="34" fill="#161b22" stroke="#60a5fa" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=sqlite" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#60a5fa"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">LB</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">SQLite</text>
+  </g>
+
+  <!-- CB MySQL -->
+  <g transform="translate(340,470)">
+    <circle r="34" fill="#161b22" stroke="#60a5fa" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=mysql" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#60a5fa"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">CB</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">MySQL</text>
+  </g>
+
+  <!-- CB Firebase -->
+  <g transform="translate(560,470)">
+    <circle r="34" fill="#161b22" stroke="#60a5fa" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=firebase" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#60a5fa"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">CB</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">Firebase</text>
+  </g>
+
+  <!-- RB Android -->
+  <g transform="translate(750,440)">
+    <circle r="34" fill="#161b22" stroke="#60a5fa" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=android" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#60a5fa"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">RB</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">Android</text>
+  </g>
+
+  <!-- GK -->
+  <g transform="translate(450,560)">
+    <circle r="34" fill="#161b22" stroke="#f97316" stroke-width="2.5"/>
+    <image href="https://skillicons.dev/icons?i=git" x="-20" y="-20" width="40" height="40"/>
+    <rect x="-24" y="40" width="48" height="18" rx="4" fill="#f97316"/>
+    <text x="0" y="53" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#0d1117">GK</text>
+    <text x="0" y="76" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff">Git</text>
+  </g>
+
+  <!-- Manager badge -->
+  <g transform="translate(120,610)">
+    <circle r="18" fill="#161b22" stroke="#ffffff" stroke-opacity="0.5" stroke-width="2"/>
+    <image href="https://skillicons.dev/icons?i=github" x="-11" y="-11" width="22" height="22"/>
+  </g>
+  <text x="150" y="616" font-family="Verdana, sans-serif" font-size="13" fill="#ffffff" opacity="0.85">Manager: GitHub</text>
+</svg>
