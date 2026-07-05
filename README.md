@@ -6,7 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prajwal+%F0%9F%91%8B;Building+AI-Driven+Web+Apps+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Android+Developer+%F0%9F%93%B1;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <a href="https://gitfut.com/keenalise">
+    <img src="https://gitfut.com/keenalise/opengraph-image?57b1687aaacbd944" alt="Prajwal's GitFut Card — 77 OVR CAM Fantasista" width="480"/>
+  </a>
+  <br/>
+  <sub>⚽ Scouted by <a href="https://gitfut.com">GitFut</a> — my GitHub, rated out of 99</sub>
+</div>
+
+<br/>
 
 ## 👋 About Me
 
@@ -20,43 +28,31 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 - 🤝 Looking for **internship opportunities** to kick off my professional journey
 - ♟️ When offline: hiking trails, playing chess, experimenting in the kitchen, and diving into books
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack — Starting XI
 
 <div align="center">
-
-### 💻 Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css&perline=6" />
-
-### 📱 Mobile, Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=android,firebase,sqlite,mysql&perline=4" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github&perline=2" />
-
+  <img src="assets/tech-lineup.svg" alt="Tech stack styled as a football lineup" width="720"/>
+  <br/>
+  <sub>Java wears the armband as the playmaker tying frontend and backend together.</sub>
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=keenalise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Prajwal's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=keenalise&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=keenalise&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=keenalise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Prajwal's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=keenalise&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=keenalise&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -67,22 +63,15 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
   </picture>
 </div>
 
-
----
+<br/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keenalise&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" alt="Contribution Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keenalise&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=ffffff" alt="Contribution Graph" />
 </div>
 
----
-
-
-
-
+<br/>
 
 ## 📬 Let's Connect
 
@@ -91,19 +80,14 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-bhandari-389031324/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
 
-
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+</div>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
-
-
-  *Thanks for stopping by! *Drop a ⭐ on something you like. *
- 
-  
-  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <br/>
+  <sub>Thanks for stopping by! Drop a ⭐ on something you like.</sub>
 </div>
