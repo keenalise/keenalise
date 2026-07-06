@@ -12,7 +12,7 @@
     <img src="https://gitfut.com/keenalise/opengraph-image?57b1687aaacbd944" alt="Prajwal's GitFut Card — 77 OVR CAM Fantasista" width="480"/>
   </a>
   <br/>
-  <!-- <sub>⚽ Scouted by <a href="https://gitfut.com">GitFut</a> — my GitHub, rated out of 99</sub> -->
+  <sub>⚽ Scouted by <a href="https://gitfut.com">GitFut</a> — my GitHub, rated out of 99</sub>
 </div>
 
 ## 👋 About Me
@@ -115,14 +115,4 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
   
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
-
-
-  *Thanks for stopping by! *Drop a ⭐ on something you like. *
- 
-  
-  
-</div>
