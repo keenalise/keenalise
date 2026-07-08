@@ -103,7 +103,7 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 
 ---
 
-<!-- <div align="center">
+-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
   ![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
