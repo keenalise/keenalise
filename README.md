@@ -19,7 +19,7 @@
 
 I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep love for crafting intelligent, user-friendly applications. From AI-powered web apps to Android development, I'm always looking to push the boundaries of what I can build.
 
-> *"Code is poetry — I'm still learning the language."*
+> *"Code is poetry, I'm still learning the language."*
 
 - 🎓 CS student focused on **AI/ML & Full-Stack Development**
 - 🔭 Actively building projects at the intersection of **AI and real-world utility**
