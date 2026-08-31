@@ -91,29 +91,3 @@ I'm a passionate **Computer Science student** from 🇳🇵 Nepal with a deep lo
 
 
 
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-bhandari-389031324/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keenalise)
-
-
-</div>
-
-
-
--- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=keenalise&color=a78bfa&style=flat-square&label=Profile+Views)
-
-
-  *Thanks for stopping by! *Drop a ⭐ on something you like. *
- 
-  
-  
-</div> -->
-
-
-
